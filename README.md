@@ -1,4 +1,4 @@
-| [Sound Board](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/SoundBoard) | [Live Demo](https://lana-20.github.io/sound-board/)
+| [Sound Board](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/SoundBoard) | [Live Demo](https://lana-20.github.io/sound-board/) |
 |----|----|
 
 In this project, I am working with the HTML5 audio tag and creating a sound board 
